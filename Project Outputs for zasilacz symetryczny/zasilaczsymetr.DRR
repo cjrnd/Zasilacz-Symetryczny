@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: zasilaczsymetr.PcbDoc   05.12.2022  23:47:06
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : zasilaczsymetr.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.701mm)                                           Round             26        PTH        9.65inch (245.14mm)
+T2      32mil (0.8mm)                                             Round             4         PTH        1.00inch (25.30mm)
+T3      34mil (0.851mm)                                           Round             12        PTH        6.35inch (161.29mm)
+T4      39mil (1.001mm)                                           Round             7         PTH        3.73inch (94.82mm)
+T5      41mil (1.049mm)                                           Round             8         PTH        3.08inch (78.12mm)
+T6      43mil (1.1mm)                                             Round             23        PTH        10.86inch (275.76mm)
+T7      47mil (1.199mm)                                           Round             8         PTH        2.45inch (62.23mm)
+T8      118mil (3mm)                                              Round             4         PTH        8.82inch (224.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              92
+
+Total Processing Time (hh:mm:ss) : 00:00:00
