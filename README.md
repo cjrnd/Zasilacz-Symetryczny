@@ -4,7 +4,7 @@ Zasilacz symetryczny z regulowanym napięciem wyjściowym 4 - 16V oraz ogranicze
   <img src="pictures/Schematic.jpg"/>
 </p>
 <p align="center">
-  <img src="(pictures/Simulation.jpg"/>
+  <img src="pictures/Simulation.jpg"/>
 </p>
 <p align="center">
   <img src="pictures/IMG_20230114_225702.jpg" />
